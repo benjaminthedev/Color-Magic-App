@@ -15,6 +15,7 @@
 		438BE54D1FB1985100594187 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 438BE54B1FB1985100594187 /* LaunchScreen.storyboard */; };
 		438BE5581FB1985100594187 /* Color_MagicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 438BE5571FB1985100594187 /* Color_MagicTests.swift */; };
 		438BE5631FB1A29200594187 /* ColorPickerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 438BE5621FB1A29200594187 /* ColorPickerVC.swift */; };
+		43A2DF891FB21B7000DFB83E /* ColorTransferDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A2DF881FB21B7000DFB83E /* ColorTransferDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		438BE5571FB1985100594187 /* Color_MagicTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color_MagicTests.swift; sourceTree = "<group>"; };
 		438BE5591FB1985100594187 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		438BE5621FB1A29200594187 /* ColorPickerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerVC.swift; sourceTree = "<group>"; };
+		43A2DF881FB21B7000DFB83E /* ColorTransferDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTransferDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				438BE54B1FB1985100594187 /* LaunchScreen.storyboard */,
 				438BE54E1FB1985100594187 /* Info.plist */,
 				438BE5461FB1985100594187 /* Color_Magic.xcdatamodeld */,
+				43A2DF881FB21B7000DFB83E /* ColorTransferDelegate.swift */,
 			);
 			path = "Color Magic";
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 			files = (
 				438BE5631FB1A29200594187 /* ColorPickerVC.swift in Sources */,
 				438BE5481FB1985100594187 /* Color_Magic.xcdatamodeld in Sources */,
+				43A2DF891FB21B7000DFB83E /* ColorTransferDelegate.swift in Sources */,
 				438BE5421FB1985100594187 /* ColorPresenterVC.swift in Sources */,
 				438BE5401FB1985100594187 /* AppDelegate.swift in Sources */,
 			);

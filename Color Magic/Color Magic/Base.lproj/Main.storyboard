@@ -75,6 +75,9 @@
                                         <state key="normal" title="Green">
                                             <color key="titleColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
                                         </state>
+                                        <connections>
+                                            <action selector="colorBtnWasPressedWithSender:" destination="CLq-Rb-1R8" eventType="touchUpInside" id="z8d-jk-sHW"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0Iq-oA-h1W">
                                         <rect key="frame" x="0.0" y="120.5" width="375" height="120.5"/>
@@ -83,6 +86,9 @@
                                         <state key="normal" title="Yellow">
                                             <color key="titleColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
                                         </state>
+                                        <connections>
+                                            <action selector="colorBtnWasPressedWithSender:" destination="CLq-Rb-1R8" eventType="touchUpInside" id="ZHM-1c-vff"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f4m-rA-jjk">
                                         <rect key="frame" x="0.0" y="241" width="375" height="121"/>
@@ -91,6 +97,9 @@
                                         <state key="normal" title="Blue">
                                             <color key="titleColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
                                         </state>
+                                        <connections>
+                                            <action selector="colorBtnWasPressedWithSender:" destination="CLq-Rb-1R8" eventType="touchUpInside" id="BdZ-W2-WDX"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3Bw-DD-j3G">
                                         <rect key="frame" x="0.0" y="362" width="375" height="120.5"/>
@@ -99,6 +108,9 @@
                                         <state key="normal" title="Red">
                                             <color key="titleColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
                                         </state>
+                                        <connections>
+                                            <action selector="colorBtnWasPressedWithSender:" destination="CLq-Rb-1R8" eventType="touchUpInside" id="dXA-lS-fSl"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VX5-T3-gMT">
                                         <rect key="frame" x="0.0" y="482.5" width="375" height="120.5"/>
@@ -107,6 +119,9 @@
                                         <state key="normal" title="Purple">
                                             <color key="titleColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
                                         </state>
+                                        <connections>
+                                            <action selector="colorBtnWasPressedWithSender:" destination="CLq-Rb-1R8" eventType="touchUpInside" id="oy2-ob-3xV"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                             </stackView>
